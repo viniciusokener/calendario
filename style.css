@@ -1,1 +1,9 @@
-
+@inmport
+*{
+    margin: auto;
+    padding: 0px;
+    font-family: "madine One"; sans-serif;
+    margin: auto;
+    font-size: normal;
+    background-color: color(from color srgb r g b);
+}
