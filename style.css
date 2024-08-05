@@ -1,9 +1,9 @@
-@inmport
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
 *{
     margin: auto;
     padding: 0px;
     font-family: "madine One"; sans-serif;
     margin: auto;
-    font-size: normal;
+    font-syle: normal;
     background-color: color(from color srgb r g b);
 }
